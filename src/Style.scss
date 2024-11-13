@@ -1,0 +1,36 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: gold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  color: cornsilk;
+  text-align: center;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  margin: 5px;
+}
+input {
+  display: block;
+  border: none;
+  margin: 10px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+div {
+  text-align: center;
+}
